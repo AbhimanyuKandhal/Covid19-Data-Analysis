@@ -1,4 +1,4 @@
-#  Covid-19 Data Analysis Capstone Project 
+#  Covid-19 Data Analysis Project 
 
 A complete **Covid-19 Data Analysis Capstone Project** built using **Python** and **Jupyter Notebook**, showcasing data cleaning, exploration, visualization, and feature engineering using real-world Covid-19 data.
 
