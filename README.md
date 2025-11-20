@@ -20,7 +20,9 @@ This project performs an in-depth analysis of the global Covid-19 dataset. It fo
 ├── Covid_Analysis_Capstone_Solution.ipynb # Main Jupyter notebook
 ├── covid_capstone_solution.py            # Equivalent Python script
 ├── plots/                                # Folder for generated plots
-└── df_groupby.csv                        # Aggregated output file
+├── df_groupby.csv                        # Aggregated output file
+├── Data Cleaning for dashboard.ipynb     # Jupyter notebook for generatin the tableau_ready_covid_data.csv to make a dashboard
+└── tableau_ready_covid_data.csv          # the data used to make tableau dashboard
 ```
 
 ---
