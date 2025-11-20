@@ -8,7 +8,11 @@ A complete **Covid-19 Data Analysis Capstone Project** built using **Python** an
 This project performs an in-depth analysis of the global Covid-19 dataset. It follows a full **data science pipeline** — from raw data ingestion and preprocessing to exploratory analysis, statistical insights, and rich visualizations.
 
 ---
+# 📊 Interactive Dashboard | Global Covid-19 Trends
 
+###  [Click Here to View the Interactive Tableau Dashboard](https://public.tableau.com/views/GlobalEconomicImpactonCovid19Recovery/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
 ## 📂 Repository Structure
 
 ```
