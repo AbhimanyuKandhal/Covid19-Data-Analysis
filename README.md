@@ -12,6 +12,8 @@ This project performs an in-depth analysis of the global Covid-19 dataset. It fo
 
 ###  [Click Here to View the Interactive Tableau Dashboard](https://public.tableau.com/views/GlobalEconomicImpactonCovid19Recovery/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+This interactive Tableau dashboard investigates the correlation between economic indicators—GDP per Capita and HDI—and COVID-19 survival rates. Using Python for data engineering to calculate custom metrics like Survival_Rate, the project features a dynamic Glassmorphism interface where users can toggle between economic variables. The analysis challenges the assumption that wealth guarantees health, revealing how infrastructure and government stringency often outweighed raw capital in driving pandemic recovery. Key features include geospatial filtering, trend line analysis, and automated parameter switching.
+
 ---
 ## 📂 Repository Structure
 
